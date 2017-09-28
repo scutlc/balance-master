@@ -1,0 +1,1225 @@
+2017/08/25 17:59:05.870518 [koi_master.go:273][1;35m[INFO] listen at port 6001 [0m 
+2017/08/25 17:59:10.166826 [koi_master.go:176][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 17:59:10.166999 [koi_master.go:179][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 17:59:12.685184 [koi_master.go:176][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 17:59:12.685241 [koi_master.go:179][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 17:59:13.643214 [koi_master.go:176][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 17:59:13.643267 [koi_master.go:179][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 17:59:14.483619 [koi_master.go:176][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 17:59:14.483704 [koi_master.go:179][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 17:59:15.854930 [koi_master.go:176][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 17:59:15.854998 [koi_master.go:179][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 17:59:17.260023 [koi_master.go:176][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 17:59:17.260081 [koi_master.go:179][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 17:59:19.118067 [koi_master.go:176][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 17:59:19.118127 [koi_master.go:179][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 17:59:20.361236 [koi_master.go:176][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 17:59:20.361326 [koi_master.go:179][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 17:59:21.209448 [koi_master.go:176][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 17:59:21.209503 [koi_master.go:179][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 17:59:22.071407 [koi_master.go:176][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 17:59:22.071465 [koi_master.go:179][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 17:59:23.103348 [koi_master.go:176][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 17:59:23.103433 [koi_master.go:179][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 17:59:38.862058 [koi_master.go:203][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.","transcode":10,"record":10,"pictur":188})
+2017/08/25 17:59:40.594357 [koi_master.go:203][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.","transcode":10,"record":10,"pictur":188})
+2017/08/25 17:59:41.392927 [koi_master.go:203][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.","transcode":10,"record":10,"pictur":188})
+2017/08/25 17:59:43.207463 [koi_master.go:203][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.","transcode":10,"record":10,"pictur":188})
+2017/08/25 17:59:44.676886 [koi_master.go:203][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.","transcode":10,"record":10,"pictur":188})
+2017/08/25 18:00:09.426235 [koi_master.go:203][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.","transcode":10,"record":10,"picture":188})
+2017/08/25 18:00:09.426296 [koi_master.go:73][1;35m[INFO] receive heart_beat from 111.333.322., 10, 10, 188 [0m 
+2017/08/25 18:00:11.773942 [koi_master.go:203][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.","transcode":10,"record":10,"picture":188})
+2017/08/25 18:00:11.774005 [koi_master.go:73][1;35m[INFO] receive heart_beat from 111.333.322., 10, 10, 188 [0m 
+2017/08/25 18:00:29.413424 [koi_master.go:203][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.","transcode":10,"record":10,"picture":188})
+2017/08/25 18:00:29.413635 [koi_master.go:73][1;35m[INFO] receive heart_beat from 111.333.322., 10, 10, 188 [0m 
+2017/08/25 18:00:30.464050 [koi_master.go:203][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.","transcode":10,"record":10,"picture":188})
+2017/08/25 18:00:30.464106 [koi_master.go:73][1;35m[INFO] receive heart_beat from 111.333.322., 10, 10, 188 [0m 
+2017/08/25 18:00:33.691759 [koi_master.go:203][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.","transcode":10,"record":10,"picture":188})
+2017/08/25 18:00:33.691818 [koi_master.go:73][1;35m[INFO] receive heart_beat from 111.333.322., 10, 10, 188 [0m 
+2017/08/25 18:00:41.602822 [koi_master.go:203][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.222","transcode":10,"record":10,"picture":188})
+2017/08/25 18:00:41.602874 [koi_master.go:73][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:00:42.582131 [koi_master.go:203][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.222","transcode":10,"record":10,"picture":188})
+2017/08/25 18:00:42.582195 [koi_master.go:73][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:04:05.856578 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 18:09:05.837603 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 18:14:05.822118 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 18:34:54.624881 [koi_master.go:293][1;35m[INFO] listen at port 6001 [0m 
+2017/08/25 18:35:00.344937 [koi_master.go:223][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.222","transcode":10,"record":10,"picture":188})
+2017/08/25 18:35:00.345142 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:35:01.545929 [koi_master.go:223][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.222","transcode":10,"record":10,"picture":188})
+2017/08/25 18:35:01.546016 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:35:07.605883 [koi_master.go:223][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.222","transcode":10,"record":10,"pic":188})
+2017/08/25 18:35:07.606059 [koi_master.go:217][1;4;31m[ERROR] picture not in heartbeat json [0m 
+2017/08/25 18:35:11.014342 [koi_master.go:223][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.222","transcode":10,"record":10,"picture":188})
+2017/08/25 18:35:11.014433 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:36:34.385802 [koi_master.go:223][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.222","transcode":10,"record":10,"picture":188})
+2017/08/25 18:36:34.385901 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:36:35.462707 [koi_master.go:223][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.222","transcode":10,"record":10,"picture":188})
+2017/08/25 18:36:35.462788 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:36:36.514608 [koi_master.go:223][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.222","transcode":10,"record":10,"picture":188})
+2017/08/25 18:36:36.514710 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:36:37.904872 [koi_master.go:223][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.222","transcode":10,"record":10,"picture":188})
+2017/08/25 18:36:37.904965 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:36:38.997329 [koi_master.go:223][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.222","transcode":10,"record":10,"picture":188})
+2017/08/25 18:36:38.997452 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:36:39.878693 [koi_master.go:223][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.222","transcode":10,"record":10,"picture":188})
+2017/08/25 18:36:39.878853 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:36:41.883524 [koi_master.go:223][1;35m[INFO] receive heartbeat, [0m %!(EXTRA string={"ip":"111.333.322.222","transcode":10,"record":10,"picture":188})
+2017/08/25 18:36:41.883613 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:36:59.206952 [koi_master.go:293][1;35m[INFO] listen at port 6001 [0m 
+2017/08/25 18:37:02.625672 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:37:02.626577 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:37:04.676025 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:37:04.676191 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:37:05.544221 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:37:05.544336 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:37:07.309294 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:37:07.309375 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:37:08.153013 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:37:08.153047 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:37:08.808941 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:37:08.809002 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:37:09.383074 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:37:09.383161 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:37:09.944742 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:37:09.944827 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:37:10.703241 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:37:10.703327 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:37:11.724030 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:37:11.724209 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:37:16.006801 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:37:16.006878 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:37:47.922697 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:37:47.922781 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:37:48.905777 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:37:48.905854 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:41:59.189326 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 18:44:06.918881 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:44:06.919028 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:44:09.217406 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:44:09.217553 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:44:10.220349 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:44:10.220504 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:44:11.184834 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:44:11.184909 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:44:40.990299 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:44:40.990771 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:44:41.795499 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:44:41.795579 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:44:42.512733 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:44:42.512795 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:44:43.183990 [koi_master.go:223][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:44:43.184078 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:46:59.171400 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 18:48:21.671506 [koi_master.go:295][1;35m[INFO] listen at port 6001 [0m 
+2017/08/25 18:48:26.303569 [koi_master.go:225][1;35m[INFO] receive heartbeat {"ip":"111.333.322.201","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:48:26.303851 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.201, 10, 10, 188 [0m 
+2017/08/25 18:48:26.303871 [koi_master.go:102][1;4;31m[ERROR] receive heartbeat from unknown ip [0m 
+2017/08/25 18:48:29.424648 [koi_master.go:225][1;35m[INFO] receive heartbeat {"ip":"111.333.322.201","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:48:29.424743 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.201, 10, 10, 188 [0m 
+2017/08/25 18:48:29.424760 [koi_master.go:102][1;4;31m[ERROR] receive heartbeat from unknown ip [0m 
+2017/08/25 18:48:30.514926 [koi_master.go:225][1;35m[INFO] receive heartbeat {"ip":"111.333.322.201","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:48:30.514989 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.201, 10, 10, 188 [0m 
+2017/08/25 18:48:30.515003 [koi_master.go:102][1;4;31m[ERROR] receive heartbeat from unknown ip [0m 
+2017/08/25 18:48:31.472936 [koi_master.go:225][1;35m[INFO] receive heartbeat {"ip":"111.333.322.201","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:48:31.473003 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.201, 10, 10, 188 [0m 
+2017/08/25 18:48:31.473022 [koi_master.go:102][1;4;31m[ERROR] receive heartbeat from unknown ip [0m 
+2017/08/25 18:48:32.372318 [koi_master.go:225][1;35m[INFO] receive heartbeat {"ip":"111.333.322.201","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:48:32.372403 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.201, 10, 10, 188 [0m 
+2017/08/25 18:48:32.372421 [koi_master.go:102][1;4;31m[ERROR] receive heartbeat from unknown ip [0m 
+2017/08/25 18:48:54.379624 [koi_master.go:225][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:48:54.379773 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:48:54.379802 [koi_master.go:102][1;4;31m[ERROR] receive heartbeat from unknown ip [0m 
+2017/08/25 18:48:56.121435 [koi_master.go:225][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:48:56.121512 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:48:56.121531 [koi_master.go:102][1;4;31m[ERROR] receive heartbeat from unknown ip [0m 
+2017/08/25 18:48:57.225131 [koi_master.go:225][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:48:57.225216 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:48:57.225233 [koi_master.go:102][1;4;31m[ERROR] receive heartbeat from unknown ip [0m 
+2017/08/25 18:49:03.814154 [koi_master.go:225][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:49:03.814230 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:49:03.814245 [koi_master.go:102][1;4;31m[ERROR] receive heartbeat from unknown ip [0m 
+2017/08/25 18:53:21.655390 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 18:54:55.565606 [koi_master.go:296][1;35m[INFO] listen at port 6001 [0m 
+2017/08/25 18:55:01.841252 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.222","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:55:01.841388 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.222, 10, 10, 188 [0m 
+2017/08/25 18:55:01.841412 [koi_master.go:103][1;4;31m[ERROR] receive heartbeat from unknown ip [0m 
+2017/08/25 18:55:49.405149 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:55:49.405238 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:55:49.405254 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658495,%!v(MISSING) [0m 
+2017/08/25 18:55:49.405266 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658549,%!v(MISSING) [0m 
+2017/08/25 18:56:31.461493 [koi_master.go:296][1;35m[INFO] listen at port 6001 [0m 
+2017/08/25 18:56:34.906101 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:56:34.906913 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:56:34.906941 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:56:34.906973 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658594 [0m 
+2017/08/25 18:56:36.531748 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:56:36.531836 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:56:36.531852 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:56:36.531861 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658596 [0m 
+2017/08/25 18:56:37.584824 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:56:37.585047 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:56:37.585082 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:56:37.585090 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658597 [0m 
+2017/08/25 18:56:38.411471 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:56:38.411623 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:56:38.411633 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:56:38.411642 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658598 [0m 
+2017/08/25 18:56:39.191207 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:56:39.191306 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:56:39.191325 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:56:39.191336 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658599 [0m 
+2017/08/25 18:56:40.750417 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:56:40.750453 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:56:40.750461 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:56:40.750466 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658600 [0m 
+2017/08/25 18:56:42.307617 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:56:42.307662 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:56:42.307671 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:56:42.307677 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658602 [0m 
+2017/08/25 18:56:45.626462 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:56:45.626567 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:56:45.626588 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:56:45.626597 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658605 [0m 
+2017/08/25 18:56:46.598647 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:56:46.598725 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:56:46.598741 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:56:46.598750 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658606 [0m 
+2017/08/25 18:56:47.569386 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:56:47.569568 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:56:47.569590 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:56:47.569600 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658607 [0m 
+2017/08/25 18:56:48.704992 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:56:48.705156 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:56:48.705185 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:56:48.705205 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658608 [0m 
+2017/08/25 18:56:50.522931 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:56:50.523006 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:56:50.523027 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:56:50.523037 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658610 [0m 
+2017/08/25 18:56:53.474873 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:56:53.474956 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:56:53.474977 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:56:53.474987 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658613 [0m 
+2017/08/25 18:56:58.716668 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:56:58.716790 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:56:58.716802 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:56:58.716807 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658618 [0m 
+2017/08/25 18:56:59.964718 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:56:59.964803 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:56:59.964824 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:56:59.964833 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658619 [0m 
+2017/08/25 18:57:00.964075 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:57:00.964161 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:57:00.964177 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:57:00.964187 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658620 [0m 
+2017/08/25 18:57:02.497142 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:57:02.497208 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:57:02.497226 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:57:02.497235 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658622 [0m 
+2017/08/25 18:57:03.338988 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:57:03.339078 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:57:03.339093 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:57:03.339100 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658623 [0m 
+2017/08/25 18:57:04.458424 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 18:57:04.458569 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 18:57:04.458583 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503658591 [0m 
+2017/08/25 18:57:04.458590 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503658624 [0m 
+2017/08/25 19:01:31.447994 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 19:06:16.357524 [koi_master.go:296][1;35m[INFO] listen at port 6001 [0m 
+2017/08/25 19:06:19.819215 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 19:06:19.820134 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188 [0m 
+2017/08/25 19:06:19.820166 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659176 [0m 
+2017/08/25 19:06:19.820178 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503659179 [0m 
+2017/08/25 19:06:55.009565 [koi_master.go:296][1;35m[INFO] listen at port 6001 [0m 
+2017/08/25 19:06:57.484845 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 19:06:57.485759 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188, info= [0m 
+2017/08/25 19:06:57.485792 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659215 [0m 
+2017/08/25 19:06:57.485802 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503659217 [0m 
+2017/08/25 19:06:59.995571 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 19:06:59.995795 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, 10, 10, 188, info= [0m 
+2017/08/25 19:06:59.995853 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659215 [0m 
+2017/08/25 19:06:59.995864 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503659219 [0m 
+2017/08/25 19:07:25.469025 [koi_master.go:296][1;35m[INFO] listen at port 6001 [0m 
+2017/08/25 19:07:29.369529 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":10,"record":10,"picture":188}, [0m 
+2017/08/25 19:07:29.370385 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 10, 10, 188 [0m 
+2017/08/25 19:07:29.370415 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659245 [0m 
+2017/08/25 19:07:29.370423 [koi_master.go:101][1;35m[INFO] after update boss status ,info=0,10,-177,1503659249 [0m 
+2017/08/25 19:07:43.994322 [koi_master.go:296][1;35m[INFO] listen at port 6001 [0m 
+2017/08/25 19:08:26.845311 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:08:26.845482 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:08:26.845497 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659263 [0m 
+2017/08/25 19:08:26.845622 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,19,10,1503659306 [0m 
+2017/08/25 19:08:47.329113 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:08:47.329329 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:08:47.329392 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659263 [0m 
+2017/08/25 19:08:47.329405 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,19,10,1503659327 [0m 
+2017/08/25 19:08:48.775795 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:08:48.775910 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:08:48.775930 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659263 [0m 
+2017/08/25 19:08:48.775940 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,19,10,1503659328 [0m 
+2017/08/25 19:12:43.979604 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 19:17:43.963384 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 19:19:05.101370 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:19:05.101476 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:19:05.101494 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659263 [0m 
+2017/08/25 19:19:05.101669 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,19,10,1503659945 [0m 
+2017/08/25 19:19:08.443884 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:19:08.443978 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:19:08.443996 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659263 [0m 
+2017/08/25 19:19:08.444003 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,19,10,1503659948 [0m 
+2017/08/25 19:19:10.249897 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:19:10.249967 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:19:10.249981 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659263 [0m 
+2017/08/25 19:19:10.249987 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,19,10,1503659950 [0m 
+2017/08/25 19:19:13.225500 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:19:13.225582 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:19:13.225597 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659263 [0m 
+2017/08/25 19:19:13.225608 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,19,10,1503659953 [0m 
+2017/08/25 19:19:14.765455 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:19:14.765511 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:19:14.765523 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659263 [0m 
+2017/08/25 19:19:14.765528 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,19,10,1503659954 [0m 
+2017/08/25 19:19:16.564212 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:19:16.564268 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:19:16.564280 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659263 [0m 
+2017/08/25 19:19:16.564290 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,19,10,1503659956 [0m 
+2017/08/25 19:19:18.449958 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:19:18.450035 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:19:18.450085 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659263 [0m 
+2017/08/25 19:19:18.450098 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,19,10,1503659958 [0m 
+2017/08/25 19:19:19.348735 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:19:19.348813 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:19:19.348829 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659263 [0m 
+2017/08/25 19:19:19.348837 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,19,10,1503659959 [0m 
+2017/08/25 19:19:20.385562 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:19:20.385650 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:19:20.385665 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503659263 [0m 
+2017/08/25 19:19:20.385674 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,19,10,1503659960 [0m 
+2017/08/25 19:20:23.702655 [koi_master.go:296][1;35m[INFO] listen at port 6001 [0m 
+2017/08/25 19:20:47.800466 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:20:47.801162 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:20:47.801194 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:20:47.801204 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660047 [0m 
+2017/08/25 19:20:52.857060 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:20:52.857132 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:20:52.857145 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:20:52.857155 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660052 [0m 
+2017/08/25 19:20:53.969784 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:20:53.969883 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:20:53.969904 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:20:53.969914 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660053 [0m 
+2017/08/25 19:25:03.424009 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:03.424344 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:03.424365 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:03.424374 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660303 [0m 
+2017/08/25 19:25:06.207763 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:06.207845 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:06.207861 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:06.207870 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660306 [0m 
+2017/08/25 19:25:07.568855 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:07.568943 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:07.568996 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:07.569008 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660307 [0m 
+2017/08/25 19:25:09.369127 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:09.369214 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:09.369229 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:09.369237 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660309 [0m 
+2017/08/25 19:25:12.527434 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:12.527499 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:12.527513 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:12.527520 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660312 [0m 
+2017/08/25 19:25:13.963401 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:13.963514 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:13.963537 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:13.963549 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660313 [0m 
+2017/08/25 19:25:15.057018 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:15.057104 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:15.057125 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:15.057135 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660315 [0m 
+2017/08/25 19:25:15.916443 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:15.916507 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:15.916522 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:15.916529 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660315 [0m 
+2017/08/25 19:25:16.787179 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:16.787232 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:16.787243 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:16.787249 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660316 [0m 
+2017/08/25 19:25:17.514667 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:17.514737 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:17.514752 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:17.514759 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660317 [0m 
+2017/08/25 19:25:18.452267 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:18.452343 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:18.452498 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:18.452537 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660318 [0m 
+2017/08/25 19:25:19.907602 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:19.907678 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:19.907691 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:19.907701 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660319 [0m 
+2017/08/25 19:25:20.598672 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:20.598820 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:20.598840 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:20.598847 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660320 [0m 
+2017/08/25 19:25:21.233103 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:21.233197 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:21.233221 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:21.233232 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660321 [0m 
+2017/08/25 19:25:21.860853 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:21.860937 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:21.860954 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:21.860963 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660321 [0m 
+2017/08/25 19:25:22.524915 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:22.524977 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:22.524991 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:22.524998 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660322 [0m 
+2017/08/25 19:25:23.688917 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 19:25:24.337782 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:24.337877 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:24.337893 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:24.337901 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660324 [0m 
+2017/08/25 19:25:25.621416 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:25.621487 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:25.621504 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:25.621510 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660325 [0m 
+2017/08/25 19:25:26.764263 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:26.764353 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:26.764375 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:26.764386 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660326 [0m 
+2017/08/25 19:25:27.790609 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:27.790683 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:27.790696 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:27.790702 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660327 [0m 
+2017/08/25 19:25:28.848361 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:28.848493 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:28.848511 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:28.848519 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660328 [0m 
+2017/08/25 19:25:29.851760 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:29.851899 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:29.851914 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:29.851921 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660329 [0m 
+2017/08/25 19:25:30.942641 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:30.942718 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:30.942733 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:30.942740 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660330 [0m 
+2017/08/25 19:25:31.963868 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:31.963931 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:31.963945 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:31.963952 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660331 [0m 
+2017/08/25 19:25:33.028817 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:33.028897 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:33.028916 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:33.028928 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660333 [0m 
+2017/08/25 19:25:34.236440 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:34.236506 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:34.236522 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:34.236530 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660334 [0m 
+2017/08/25 19:25:35.540262 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:35.540294 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:35.540306 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:35.540312 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660335 [0m 
+2017/08/25 19:25:36.878562 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:36.878629 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:36.878641 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:36.878649 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660336 [0m 
+2017/08/25 19:25:37.829136 [koi_master.go:226][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 19:25:37.829231 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 19:25:37.829251 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503660023 [0m 
+2017/08/25 19:25:37.829262 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503660337 [0m 
+2017/08/25 20:19:21.197935 [koi_master.go:294][1;35m[INFO] listen at port 6001 [0m 
+2017/08/25 20:19:27.823669 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 20:19:27.823821 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 20:19:27.823841 [koi_master.go:96][1;35m[INFO] before update boss status ,info=0,0,0,1503663561 [0m 
+2017/08/25 20:19:27.823847 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503663567 [0m 
+2017/08/25 20:19:35.673883 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 20:19:35.673964 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 20:19:35.673980 [koi_master.go:96][1;35m[INFO] before update boss status ,info=9,9,9,1503663567 [0m 
+2017/08/25 20:19:35.673987 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503663575 [0m 
+2017/08/25 20:19:38.023424 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 20:19:38.023490 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 20:19:38.023505 [koi_master.go:96][1;35m[INFO] before update boss status ,info=9,9,9,1503663575 [0m 
+2017/08/25 20:19:38.023512 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503663578 [0m 
+2017/08/25 20:19:39.057347 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 20:19:39.057437 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 20:19:39.057452 [koi_master.go:96][1;35m[INFO] before update boss status ,info=9,9,9,1503663578 [0m 
+2017/08/25 20:19:39.057461 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503663579 [0m 
+2017/08/25 20:19:39.922451 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 20:19:39.922545 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 20:19:39.922569 [koi_master.go:96][1;35m[INFO] before update boss status ,info=9,9,9,1503663579 [0m 
+2017/08/25 20:19:39.922578 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503663579 [0m 
+2017/08/25 20:19:40.773318 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":1,"record":1,"picture":1}, [0m 
+2017/08/25 20:19:40.773412 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 1, 1, 1 [0m 
+2017/08/25 20:19:40.773430 [koi_master.go:96][1;35m[INFO] before update boss status ,info=9,9,9,1503663579 [0m 
+2017/08/25 20:19:40.773439 [koi_master.go:101][1;35m[INFO] after update boss status ,info=9,9,9,1503663580 [0m 
+2017/08/25 20:19:54.490329 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":2,"record":2,"picture":2}, [0m 
+2017/08/25 20:19:54.490410 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 2, 2, 2 [0m 
+2017/08/25 20:19:54.490427 [koi_master.go:96][1;35m[INFO] before update boss status ,info=9,9,9,1503663580 [0m 
+2017/08/25 20:19:54.490435 [koi_master.go:101][1;35m[INFO] after update boss status ,info=8,8,8,1503663594 [0m 
+2017/08/25 20:19:56.683825 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":2,"record":2,"picture":2}, [0m 
+2017/08/25 20:19:56.683865 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 2, 2, 2 [0m 
+2017/08/25 20:19:56.683875 [koi_master.go:96][1;35m[INFO] before update boss status ,info=8,8,8,1503663594 [0m 
+2017/08/25 20:19:56.683884 [koi_master.go:101][1;35m[INFO] after update boss status ,info=8,8,8,1503663596 [0m 
+2017/08/25 20:19:57.434645 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":2,"record":2,"picture":2}, [0m 
+2017/08/25 20:19:57.434731 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 2, 2, 2 [0m 
+2017/08/25 20:19:57.434751 [koi_master.go:96][1;35m[INFO] before update boss status ,info=8,8,8,1503663596 [0m 
+2017/08/25 20:19:57.434763 [koi_master.go:101][1;35m[INFO] after update boss status ,info=8,8,8,1503663597 [0m 
+2017/08/25 20:19:58.044148 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":2,"record":2,"picture":2}, [0m 
+2017/08/25 20:19:58.044185 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 2, 2, 2 [0m 
+2017/08/25 20:19:58.044193 [koi_master.go:96][1;35m[INFO] before update boss status ,info=8,8,8,1503663597 [0m 
+2017/08/25 20:19:58.044199 [koi_master.go:101][1;35m[INFO] after update boss status ,info=8,8,8,1503663598 [0m 
+2017/08/25 20:19:58.548643 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":2,"record":2,"picture":2}, [0m 
+2017/08/25 20:19:58.548689 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 2, 2, 2 [0m 
+2017/08/25 20:19:58.548704 [koi_master.go:96][1;35m[INFO] before update boss status ,info=8,8,8,1503663598 [0m 
+2017/08/25 20:19:58.548766 [koi_master.go:101][1;35m[INFO] after update boss status ,info=8,8,8,1503663598 [0m 
+2017/08/25 20:19:59.092534 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":2,"record":2,"picture":2}, [0m 
+2017/08/25 20:19:59.092597 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 2, 2, 2 [0m 
+2017/08/25 20:19:59.092614 [koi_master.go:96][1;35m[INFO] before update boss status ,info=8,8,8,1503663598 [0m 
+2017/08/25 20:19:59.092625 [koi_master.go:101][1;35m[INFO] after update boss status ,info=8,8,8,1503663599 [0m 
+2017/08/25 20:22:40.179686 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":2,"record":2,"picture":2}, [0m 
+2017/08/25 20:22:40.179786 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 2, 2, 2 [0m 
+2017/08/25 20:22:40.179805 [koi_master.go:96][1;35m[INFO] before update boss status ,info=8,8,8,1503663599 [0m 
+2017/08/25 20:22:40.179815 [koi_master.go:101][1;35m[INFO] after update boss status ,info=8,8,8,1503663760 [0m 
+2017/08/25 20:22:41.078827 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":2,"record":2,"picture":2}, [0m 
+2017/08/25 20:22:41.078931 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 2, 2, 2 [0m 
+2017/08/25 20:22:41.078951 [koi_master.go:96][1;35m[INFO] before update boss status ,info=8,8,8,1503663760 [0m 
+2017/08/25 20:22:41.078962 [koi_master.go:101][1;35m[INFO] after update boss status ,info=8,8,8,1503663761 [0m 
+2017/08/25 20:22:41.910312 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":2,"record":2,"picture":2}, [0m 
+2017/08/25 20:22:41.910391 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 2, 2, 2 [0m 
+2017/08/25 20:22:41.910488 [koi_master.go:96][1;35m[INFO] before update boss status ,info=8,8,8,1503663761 [0m 
+2017/08/25 20:22:41.910509 [koi_master.go:101][1;35m[INFO] after update boss status ,info=8,8,8,1503663761 [0m 
+2017/08/25 20:22:57.993431 [koi_master.go:224][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":3,"record":3,"picture":3}, [0m 
+2017/08/25 20:22:57.993511 [koi_master.go:93][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 3, 3, 3 [0m 
+2017/08/25 20:22:57.993528 [koi_master.go:96][1;35m[INFO] before update boss status ,info=8,8,8,1503663761 [0m 
+2017/08/25 20:22:57.993536 [koi_master.go:101][1;35m[INFO] after update boss status ,info=7,7,7,1503663777 [0m 
+2017/08/25 20:24:21.183122 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 20:29:21.161874 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 20:34:21.146444 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 20:35:48.882578 [koi_master.go:294][1;35m[INFO] listen at port 6001 [0m 
+2017/08/25 20:36:06.039470 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 20:36:06.040515 [koi_master.go:201][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:36:06.956414 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 20:36:06.956543 [koi_master.go:201][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:36:07.653206 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 20:36:07.653289 [koi_master.go:201][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:36:08.351406 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 20:36:08.351505 [koi_master.go:201][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:36:09.063877 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 20:36:09.063960 [koi_master.go:201][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:36:09.712078 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 20:36:09.712169 [koi_master.go:201][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:36:10.375162 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 20:36:10.375382 [koi_master.go:201][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:36:11.391493 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 20:36:11.391587 [koi_master.go:201][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:36:29.723489 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 20:36:29.723766 [koi_master.go:201][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:36:30.656160 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 20:36:30.656291 [koi_master.go:201][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:36:31.347604 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 20:36:31.347696 [koi_master.go:201][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:36:32.300022 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 20:36:32.300203 [koi_master.go:201][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:36:33.704453 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]}, [0m 
+2017/08/25 20:36:33.704568 [koi_master.go:201][1;35m[INFO] handle new request=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:37:40.925075 [koi_master.go:294][1;35m[INFO] listen at port 6001 [0m 
+2017/08/25 20:37:45.268648 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 20:37:45.269756 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:37:46.146606 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 20:37:46.146701 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:37:46.972928 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 20:37:46.972996 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:37:51.390233 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 20:37:51.390375 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:37:52.254488 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 20:37:52.254578 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:37:52.891985 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 20:37:52.892098 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:37:53.433821 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 20:37:53.433848 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:37:54.059467 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 20:37:54.059694 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:37:54.867650 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 20:37:54.867752 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:37:55.701630 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 20:37:55.701699 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:37:57.488311 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 20:37:57.488374 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 20:37:58.480822 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 20:37:58.480925 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 21:52:29.182362 [koi_master.go:294][1;35m[INFO] listen at port 6001 [0m 
+2017/08/25 21:52:37.756440 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 21:52:37.757565 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 21:52:39.563261 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 21:52:39.563386 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 21:52:40.396729 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 21:52:40.396815 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 21:52:41.083875 [koi_master.go:199][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/25 21:52:41.083910 [koi_master.go:201][1;35m[INFO] handle new request,result=ok,[111.333.322.111 111.333.322.112] [0m 
+2017/08/25 21:57:29.169025 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 22:02:29.147755 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 22:07:29.133044 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 22:12:29.113626 ================ LOG SEQ SIZE:0 ==================
+2017/08/25 22:17:29.103722 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 18:09:13.592342 [koi_master.go:299][1;35m[INFO] listen at port 6001 [0m 
+2017/08/26 18:09:18.172108 [koi_master.go:212][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/26 18:09:18.172375 [koi_master.go:214][1;35m[INFO] handle new request,result=ok,[[111.333.322.111 111.333.322.112]] [0m 
+2017/08/26 18:09:19.990120 [koi_master.go:212][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/26 18:09:19.990226 [koi_master.go:214][1;35m[INFO] handle new request,result=ok,[[111.333.322.111 111.333.322.112]] [0m 
+2017/08/26 18:09:34.581471 [koi_master.go:212][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/26 18:09:34.581526 [koi_master.go:214][1;35m[INFO] handle new request,result=ok,[[111.333.322.111 111.333.322.112]] [0m 
+2017/08/26 18:09:37.542669 [koi_master.go:212][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/26 18:09:37.542769 [koi_master.go:214][1;35m[INFO] handle new request,result=ok,[[111.333.322.111 111.333.322.112]] [0m 
+2017/08/26 18:09:39.903896 [koi_master.go:212][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/26 18:09:39.904036 [koi_master.go:214][1;35m[INFO] handle new request,result=ok,[[111.333.322.111 111.333.322.112]] [0m 
+2017/08/26 18:09:40.925401 [koi_master.go:212][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/26 18:09:40.925516 [koi_master.go:214][1;35m[INFO] handle new request,result=ok,[[111.333.322.111 111.333.322.112]] [0m 
+2017/08/26 18:09:42.748605 [koi_master.go:212][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/26 18:09:42.748702 [koi_master.go:214][1;35m[INFO] handle new request,result=ok,[[111.333.322.111 111.333.322.112]] [0m 
+2017/08/26 18:09:45.839361 [koi_master.go:212][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/26 18:09:45.839443 [koi_master.go:214][1;35m[INFO] handle new request,result=ok,[[111.333.322.111 111.333.322.112]] [0m 
+2017/08/26 18:09:46.805687 [koi_master.go:212][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/26 18:09:46.805771 [koi_master.go:214][1;35m[INFO] handle new request,result=ok,[[111.333.322.111 111.333.322.112]] [0m 
+2017/08/26 18:09:47.645578 [koi_master.go:212][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/26 18:09:47.645668 [koi_master.go:214][1;35m[INFO] handle new request,result=ok,[[111.333.322.111 111.333.322.112]] [0m 
+2017/08/26 18:09:48.858544 [koi_master.go:212][1;35m[INFO] receive new request  {"live":true,"input":[{"pull":"true","url":"rtmp://127.0.0.1/carry888/999?ssshost=hltrtmp"}]} [0m 
+2017/08/26 18:09:48.858622 [koi_master.go:214][1;35m[INFO] handle new request,result=ok,[[111.333.322.111 111.333.322.112]] [0m 
+2017/08/26 18:09:54.753795 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":3,"record":3,"picture":3}, [0m 
+2017/08/26 18:09:54.753936 [koi_master.go:95][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 3, 3, 3 [0m 
+2017/08/26 18:09:54.753963 [koi_master.go:98][1;35m[INFO] before update boss status ,info=0,0,0,1503742153 [0m 
+2017/08/26 18:09:54.753972 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,7,1503742194 [0m 
+2017/08/26 18:10:38.980434 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":3,"record":3,"picture":3}, [0m 
+2017/08/26 18:10:38.980527 [koi_master.go:95][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 3, 3, 3 [0m 
+2017/08/26 18:10:38.980547 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,7,1503742194 [0m 
+2017/08/26 18:10:38.980555 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,7,1503742238 [0m 
+2017/08/26 18:10:40.743261 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":3,"record":3,"picture":3}, [0m 
+2017/08/26 18:10:40.743350 [koi_master.go:95][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 3, 3, 3 [0m 
+2017/08/26 18:10:40.743369 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,7,1503742238 [0m 
+2017/08/26 18:10:40.743381 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,7,1503742240 [0m 
+2017/08/26 18:10:50.158166 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:10:50.158209 [koi_master.go:95][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 3, 3, 4 [0m 
+2017/08/26 18:10:50.158223 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,7,1503742240 [0m 
+2017/08/26 18:10:50.158231 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742250 [0m 
+2017/08/26 18:10:51.860070 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"111.333.322.112","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:10:51.860192 [koi_master.go:95][1;35m[INFO] receive heart_beat from 111.333.322.112, info= 3, 3, 4 [0m 
+2017/08/26 18:10:51.860214 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742250 [0m 
+2017/08/26 18:10:51.860255 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742251 [0m 
+2017/08/26 18:11:41.643377 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:11:41.643409 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:11:41.643420 [koi_master.go:98][1;35m[INFO] before update boss status ,info=0,0,0,1503742153 [0m 
+2017/08/26 18:11:41.643428 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742301 [0m 
+2017/08/26 18:11:47.375813 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:11:47.375895 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:11:47.375915 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742301 [0m 
+2017/08/26 18:11:47.375924 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742307 [0m 
+2017/08/26 18:11:48.931480 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:11:48.931571 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:11:48.931592 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742307 [0m 
+2017/08/26 18:11:48.931600 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742308 [0m 
+2017/08/26 18:11:51.311377 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:11:51.311457 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:11:51.311477 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742308 [0m 
+2017/08/26 18:11:51.311487 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742311 [0m 
+2017/08/26 18:11:52.364091 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:11:52.364135 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:11:52.364147 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742311 [0m 
+2017/08/26 18:11:52.364155 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742312 [0m 
+2017/08/26 18:11:53.012460 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:11:53.012709 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:11:53.012724 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742312 [0m 
+2017/08/26 18:11:53.012730 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742313 [0m 
+2017/08/26 18:11:53.491682 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:11:53.491851 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:11:53.491869 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742313 [0m 
+2017/08/26 18:11:53.491877 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742313 [0m 
+2017/08/26 18:11:53.961155 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:11:53.961229 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:11:53.961245 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742313 [0m 
+2017/08/26 18:11:53.961257 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742313 [0m 
+2017/08/26 18:14:13.574023 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 18:18:18.173268 [koi_master.go:299][1;35m[INFO] listen at port 6001 [0m 
+2017/08/26 18:18:21.096545 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:21.097170 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:21.097194 [koi_master.go:98][1;35m[INFO] before update boss status ,info=0,0,0,1503742698 [0m 
+2017/08/26 18:18:21.097200 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742701 [0m 
+2017/08/26 18:18:22.529070 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:22.529167 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:22.529189 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742701 [0m 
+2017/08/26 18:18:22.529198 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742702 [0m 
+2017/08/26 18:18:23.342338 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:23.342502 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:23.342510 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742702 [0m 
+2017/08/26 18:18:23.342520 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742703 [0m 
+2017/08/26 18:18:24.085135 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:24.085195 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:24.085210 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742703 [0m 
+2017/08/26 18:18:24.085219 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742704 [0m 
+2017/08/26 18:18:24.680820 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:24.680899 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:24.680918 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742704 [0m 
+2017/08/26 18:18:24.680927 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742704 [0m 
+2017/08/26 18:18:25.243396 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:25.243490 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:25.243507 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742704 [0m 
+2017/08/26 18:18:25.243520 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742705 [0m 
+2017/08/26 18:18:25.809929 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:25.809966 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:25.809978 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742705 [0m 
+2017/08/26 18:18:25.809987 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742705 [0m 
+2017/08/26 18:18:26.349470 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:26.349581 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:26.349595 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742705 [0m 
+2017/08/26 18:18:26.349603 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742706 [0m 
+2017/08/26 18:18:26.915780 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:26.915832 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:26.915845 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742706 [0m 
+2017/08/26 18:18:26.915857 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742706 [0m 
+2017/08/26 18:18:27.552590 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:27.552674 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:27.552695 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742706 [0m 
+2017/08/26 18:18:27.552707 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742707 [0m 
+2017/08/26 18:18:28.175172 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:28.175343 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:28.175388 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742707 [0m 
+2017/08/26 18:18:28.175402 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742708 [0m 
+2017/08/26 18:18:28.781558 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:28.781694 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:28.781728 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742708 [0m 
+2017/08/26 18:18:28.781740 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742708 [0m 
+2017/08/26 18:18:29.496087 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:29.496193 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:29.496213 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742708 [0m 
+2017/08/26 18:18:29.496224 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742709 [0m 
+2017/08/26 18:18:30.169386 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:30.169442 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:30.169463 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742709 [0m 
+2017/08/26 18:18:30.169473 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742710 [0m 
+2017/08/26 18:18:30.803636 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:30.803719 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:30.803740 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742710 [0m 
+2017/08/26 18:18:30.803749 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742710 [0m 
+2017/08/26 18:18:31.765063 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:18:31.765182 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:18:31.765209 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742710 [0m 
+2017/08/26 18:18:31.765220 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742711 [0m 
+2017/08/26 18:19:22.670301 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:19:22.670406 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:19:22.670423 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742711 [0m 
+2017/08/26 18:19:22.670431 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742762 [0m 
+2017/08/26 18:19:23.445160 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:19:23.445237 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:19:23.445252 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742762 [0m 
+2017/08/26 18:19:23.445264 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742763 [0m 
+2017/08/26 18:19:24.120948 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:19:24.121027 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:19:24.121043 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742763 [0m 
+2017/08/26 18:19:24.121054 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742764 [0m 
+2017/08/26 18:19:24.725281 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:19:24.725335 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:19:24.725348 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742764 [0m 
+2017/08/26 18:19:24.725359 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742764 [0m 
+2017/08/26 18:19:25.336365 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:19:25.336442 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:19:25.336461 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742764 [0m 
+2017/08/26 18:19:25.336471 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742765 [0m 
+2017/08/26 18:19:25.863758 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:19:25.863864 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:19:25.863884 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742765 [0m 
+2017/08/26 18:19:25.863895 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742765 [0m 
+2017/08/26 18:19:26.444987 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:19:26.445065 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:19:26.445079 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742765 [0m 
+2017/08/26 18:19:26.445091 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742766 [0m 
+2017/08/26 18:19:26.966879 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:19:26.966987 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:19:26.967005 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742766 [0m 
+2017/08/26 18:19:26.967014 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742766 [0m 
+2017/08/26 18:19:27.560958 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:19:27.561019 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:19:27.561038 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742766 [0m 
+2017/08/26 18:19:27.561046 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742767 [0m 
+2017/08/26 18:19:28.128543 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:19:28.128716 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:19:28.128734 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742767 [0m 
+2017/08/26 18:19:28.128744 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503742768 [0m 
+2017/08/26 18:23:18.157166 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 18:28:18.139908 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 18:33:18.123140 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 18:48:30.970226 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:48:30.970303 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:48:30.970320 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503742768 [0m 
+2017/08/26 18:48:30.970333 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503744510 [0m 
+2017/08/26 18:48:32.028895 [koi_master.go:237][1;35m[INFO] receive heartbeat {"ip":"4444.333.322.333","transcode":3,"record":3,"picture":4}, [0m 
+2017/08/26 18:48:32.028957 [koi_master.go:95][1;35m[INFO] receive heart_beat from 4444.333.322.333, info= 3, 3, 4 [0m 
+2017/08/26 18:48:32.028970 [koi_master.go:98][1;35m[INFO] before update boss status ,info=7,7,6,1503744510 [0m 
+2017/08/26 18:48:32.028977 [koi_master.go:103][1;35m[INFO] after update boss status ,info=7,7,6,1503744512 [0m 
+2017/08/26 18:50:16.624186 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 18:55:16.609832 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 19:00:16.591311 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 19:05:16.571354 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 19:10:16.552965 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 19:15:16.534935 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 20:00:18.197857 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 20:05:18.178874 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 20:10:18.161875 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 20:15:18.139880 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 20:20:18.122947 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 20:25:18.108154 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 23:15:04.576584 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 23:20:04.556653 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 23:25:04.538764 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 23:30:04.516482 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 23:35:04.502385 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 23:40:04.480949 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 23:45:04.465316 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 23:50:04.447829 ================ LOG SEQ SIZE:0 ==================
+2017/08/26 23:55:04.437183 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 00:00:04.419845 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 00:05:04.405321 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 00:10:04.387931 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 00:15:04.373336 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 00:20:04.353116 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 00:25:04.338526 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 00:30:04.321175 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 00:35:04.303848 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 00:40:04.289164 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 00:45:04.271783 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 00:50:04.258315 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 00:55:04.240853 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 01:00:04.226368 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 01:05:04.206073 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 01:10:04.191418 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 01:15:04.176823 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 01:20:04.159501 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 01:25:04.144796 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 01:30:04.123022 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 01:35:04.111497 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 01:40:04.094139 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 01:45:04.076832 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 01:50:04.056634 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 01:55:04.045099 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 02:00:04.027713 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 02:05:04.013160 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 02:10:03.989967 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 02:15:03.981308 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 02:20:03.963981 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 02:25:03.943582 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 02:30:03.931967 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 02:35:03.914457 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 02:40:03.897056 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 02:45:03.879226 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 02:50:03.866067 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 02:55:03.848571 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 03:00:03.831213 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 03:05:03.816631 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 03:10:03.799178 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 03:15:03.784663 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 03:20:03.767243 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 03:25:03.749890 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 03:30:03.735332 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 03:35:03.717919 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 03:40:03.702842 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 03:45:03.685939 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 03:50:03.668515 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 03:55:03.653988 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 04:00:03.636576 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 04:05:03.622167 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 04:10:03.604716 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 04:15:03.590098 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 04:20:03.572781 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 04:25:03.555381 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 04:30:03.532981 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 04:35:03.521410 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 04:40:03.506876 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 04:45:03.489449 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 04:50:03.471502 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 04:55:03.457542 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 05:00:03.440078 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 05:05:03.425567 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 05:10:03.408143 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 05:15:03.391792 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 05:20:03.374416 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 05:25:03.357005 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 05:30:03.342517 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 05:35:03.327933 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 05:40:03.309114 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 05:45:03.294470 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 05:50:03.277141 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 05:55:03.262654 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 06:00:03.245322 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 06:05:03.227929 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 06:10:03.213347 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 06:15:03.195980 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 06:20:03.178623 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 06:25:03.164164 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 06:30:03.142040 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 06:35:03.126060 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 06:40:03.111473 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 06:45:03.096966 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 06:50:03.076589 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 06:55:03.064971 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 07:00:03.047562 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 07:05:03.033029 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 07:10:03.015515 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 07:15:02.998987 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 07:20:02.984276 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 07:25:02.966704 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 07:30:02.951985 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 07:35:02.935343 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 07:40:02.915188 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 07:45:02.900535 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 07:50:02.884043 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 07:55:02.869509 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 08:00:02.850199 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 08:05:02.835639 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 08:10:02.821035 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 08:15:02.803563 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 08:20:02.786138 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 08:25:02.771555 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 08:30:02.754240 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 08:35:02.738047 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 08:40:02.720712 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 08:45:02.706270 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 08:50:02.688957 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 08:55:02.672482 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 09:00:02.655244 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 09:05:02.633863 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 09:10:02.623322 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 09:15:02.605828 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 09:20:02.591304 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 09:25:02.574761 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 09:30:02.557247 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 09:35:02.539729 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 09:40:02.525068 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 09:45:02.510335 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 09:50:02.492677 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 09:55:02.475163 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 10:00:02.460580 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 10:05:02.443106 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 10:10:02.428460 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 10:15:02.411027 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 10:20:02.393539 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 10:25:02.378953 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 10:30:02.361475 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 10:35:02.344107 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 10:40:02.329478 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 10:45:02.312011 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 10:50:02.294605 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 10:55:02.280088 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 11:00:02.255639 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 11:05:02.248114 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 11:10:02.230691 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 11:15:02.213210 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 11:20:02.198694 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 11:25:02.176921 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 11:30:02.163645 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 11:35:02.149279 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 11:40:02.129900 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 11:45:02.115677 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 11:50:02.098141 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 11:55:02.083537 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 12:00:02.066263 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 12:05:02.051794 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 12:10:02.031446 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 12:15:02.015524 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 12:20:01.993912 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 12:25:01.976185 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 12:30:01.960353 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 12:35:01.942541 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 12:40:01.923656 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 12:45:01.904969 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 12:50:01.889532 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 12:55:01.876008 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 13:00:01.861415 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 13:05:01.843932 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 13:10:01.825599 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 13:15:01.810789 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 13:20:01.794015 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 13:25:01.776529 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 13:30:01.762772 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 13:35:01.745413 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 13:40:01.730847 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 13:45:01.713275 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 13:50:01.695848 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 13:55:01.673560 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 14:00:01.662838 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 14:05:01.645552 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 14:10:01.631020 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 14:15:01.613525 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 14:20:01.596091 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 14:25:01.581427 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 14:30:01.563971 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 14:35:01.549362 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 14:40:01.526377 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 14:45:01.515610 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 14:50:01.498088 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 14:55:01.477562 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 15:00:01.468956 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 15:05:01.447416 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 15:10:01.433964 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 15:15:01.416429 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 15:20:01.403491 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 15:25:01.377495 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 15:30:01.361671 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 15:35:01.343209 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 15:40:01.325392 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 15:45:01.316407 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 15:50:01.298022 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 15:55:01.280602 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 16:00:01.266966 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 16:05:01.242664 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 16:10:01.233826 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 16:15:01.216396 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 16:20:01.194416 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 16:25:01.185474 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 16:30:01.165099 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 16:35:01.150390 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 16:40:01.127428 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 16:45:01.119064 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 16:50:01.100922 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 16:55:01.086354 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 17:00:01.068881 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 17:05:01.054290 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 17:10:01.033938 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 17:15:01.019288 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 17:20:01.004729 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 17:25:00.987315 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 17:30:00.969863 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 17:35:00.955250 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 17:40:00.937696 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 17:45:00.923204 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 17:50:00.905741 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 17:55:00.885457 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 18:00:00.873724 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 18:05:00.856251 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 18:10:00.838904 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 18:15:00.824294 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 18:20:00.806834 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 18:25:00.792292 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 18:30:00.774853 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 18:35:00.758342 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 18:40:00.740992 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 18:45:00.720169 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 18:50:00.708922 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 18:55:00.692252 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 19:00:00.674882 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 19:05:00.659562 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 19:10:00.639099 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 19:15:00.618576 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 19:20:00.603410 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 19:25:00.591645 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 19:30:00.574233 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 19:35:00.556713 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 19:40:00.542118 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 19:45:00.524565 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 19:50:00.508834 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 19:55:00.487401 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 20:00:00.468647 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 20:05:00.450014 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 20:10:00.434432 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 20:15:00.413930 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 20:20:00.396525 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 20:25:00.387733 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 20:30:00.370260 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 20:35:00.352111 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 20:40:00.335764 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 20:45:00.321118 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 20:50:00.306544 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 20:55:00.289943 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 21:00:00.272343 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 21:05:00.257648 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 21:10:00.237235 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 21:15:00.222532 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 21:20:00.201962 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 21:25:00.190400 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 21:30:00.175767 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 21:35:00.158186 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 21:40:00.140726 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 21:45:00.126070 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 21:50:00.105706 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 21:55:00.091058 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 22:00:00.074456 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 22:05:00.056914 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 22:10:00.043446 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 22:15:00.025181 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 22:20:00.003552 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 22:24:59.986008 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 22:29:59.974325 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 22:34:59.961163 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 22:39:59.944572 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 22:44:59.927237 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 22:49:59.909898 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 22:54:59.892580 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 22:59:59.877966 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 23:04:59.863484 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 23:09:59.846070 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 23:14:59.828566 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 23:19:59.814927 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 23:24:59.791006 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 23:29:59.774046 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 23:34:59.756759 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 23:39:59.739081 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 23:44:59.721896 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 23:49:59.707248 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 23:54:59.692508 ================ LOG SEQ SIZE:0 ==================
+2017/08/27 23:59:59.675931 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 00:04:59.661452 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 00:09:59.645225 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 00:14:59.627880 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 00:19:59.613323 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 00:24:59.593883 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 00:29:59.577817 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 00:34:59.564278 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 00:39:59.541217 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 00:44:59.524045 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 00:49:59.513165 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 00:54:59.498674 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 00:59:59.478392 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 01:04:59.463841 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 01:09:59.449257 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 01:14:59.431878 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 01:19:59.414505 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 01:24:59.397861 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 01:29:59.381302 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 01:34:59.366717 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 01:39:59.349301 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 01:44:59.334808 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 01:49:59.317402 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 01:54:59.300652 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 01:59:59.285863 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 02:04:59.268216 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 02:09:59.251675 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 02:14:59.237135 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 02:19:59.219743 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 02:24:59.202287 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 02:29:59.185830 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 02:34:59.171276 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 02:39:59.151239 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 02:44:59.136482 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 02:49:59.121886 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 02:54:59.104479 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 02:59:59.089885 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 03:04:59.072452 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 03:09:59.055085 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 03:14:59.040587 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 03:19:59.023099 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 03:24:59.007117 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 03:29:58.989773 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 03:34:58.973126 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 03:39:58.955115 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 03:44:58.940281 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 03:49:58.926798 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 03:54:58.906585 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 03:59:58.892134 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 04:04:58.869985 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 04:09:58.857498 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 04:14:58.842930 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 04:19:58.828440 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 04:24:58.809030 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 04:29:58.795521 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 04:34:58.778084 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 04:39:58.762024 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 04:44:58.744589 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 04:49:58.727030 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 04:54:58.713533 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 04:59:58.694180 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 05:04:58.679658 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 05:09:58.665024 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 05:14:58.647591 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 05:19:58.630128 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 05:24:58.615599 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 05:29:58.598179 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 05:34:58.581494 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 05:39:58.566954 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 05:44:58.549474 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 05:49:58.532019 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 05:54:58.516370 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 05:59:58.497171 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 06:04:58.482602 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 06:09:58.468104 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 06:14:58.447059 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 06:19:58.434193 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 06:24:58.419593 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 06:29:58.401144 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 06:34:58.386673 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 06:39:58.364837 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 06:44:58.352708 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 06:49:58.332692 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 06:54:58.320772 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 06:59:58.303299 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 07:04:58.288785 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 07:09:58.271373 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 07:14:58.254830 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 07:19:58.240110 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 07:24:58.223443 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 07:29:58.206792 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 07:34:58.189360 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 07:39:58.174671 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 07:44:58.157128 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 07:49:58.139698 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 07:54:58.122358 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 07:59:58.107720 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 08:04:58.090300 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 08:09:58.072925 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 08:14:58.058360 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 08:19:58.043820 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 08:24:58.027363 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 08:29:58.007206 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 08:34:57.992434 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 08:39:57.974990 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 08:44:57.960437 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 08:49:57.945874 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 08:54:57.927376 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 08:59:57.910105 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 09:04:57.892597 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 09:09:57.877880 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 09:14:57.861456 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 09:19:57.846777 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 09:54:57.176399 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 09:59:44.706178 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 10:04:44.688845 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 10:09:44.670026 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 10:14:44.652811 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 10:19:44.633658 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 10:24:44.618913 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 10:29:44.601069 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 10:34:44.582175 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 10:39:44.564914 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 10:44:44.543240 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 10:49:44.530018 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 10:54:44.512237 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 10:59:44.493013 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 11:01:41.101925 [koi_master.go:299][1;35m[INFO] listen at port 6001 [0m 
+2017/08/28 11:04:44.474506 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 11:09:44.458493 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 11:14:44.439471 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 11:19:44.423339 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 11:24:44.405442 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 11:29:44.387374 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 11:34:44.368973 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 11:39:44.352149 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 11:44:44.334296 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 11:49:44.314815 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 11:54:44.298541 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 11:59:44.280735 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 12:04:44.259007 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 12:09:44.240139 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 12:14:44.225322 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 12:19:44.206177 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 12:52:50.225838 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 14:17:08.789798 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 14:22:08.772015 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 14:27:08.754195 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 14:32:08.736587 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 14:37:08.720090 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 14:42:08.701318 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 14:47:08.683635 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 14:52:08.664730 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 14:57:08.647988 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 15:02:08.629114 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 15:07:08.607799 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 15:12:08.590498 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 15:17:08.574277 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 15:22:08.557575 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 15:27:08.540293 ================ LOG SEQ SIZE:0 ==================
+2017/08/28 15:32:08.523551 ================ LOG SEQ SIZE:0 ==================
+2017/09/15 15:07:37.793792 [koi_master.go:299][1;35m[INFO] listen at port 6001 [0m 
